@@ -6,7 +6,7 @@ export const listaProdutos = [
     },
     {
         id: 2,
-        nome:'Mouse',
+        nome:'Mose',
         preco: 120
     },
     {
